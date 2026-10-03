@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Amak Ochieng",
+    "shortName": "Coach Amak",
+    "slug": "amak-ochieng",
+    "specialisation": "Strength & Conditioning",
+    "certifications": "NASM-CPT · Olympic Lifting L1",
+    "experience": 9,
+    "image": "/images/trainer-amak.jpg"
+  },
+  {
+    "name": "Wanjiku Njoroge",
+    "shortName": "Wanjiku",
+    "slug": "wanjiku-njoroge",
+    "specialisation": "HIIT & Endurance",
+    "certifications": "ACE-CPT · Spinning® Elite",
+    "experience": 7,
+    "image": "/images/trainer-wanjiku.jpg"
+  },
+  {
+    "name": "Kiptoo Cheruiyot",
+    "shortName": "Kiptoo",
+    "slug": "kiptoo-cheruiyot",
+    "specialisation": "Boxing & Athletic Performance",
+    "certifications": "ISSA-CPT · Boxing Coach L2",
+    "experience": 10,
+    "image": "/images/trainer-kiptoo.jpg"
+  },
+  {
+    "name": "Zuri Achieng",
+    "shortName": "Zuri",
+    "slug": "zuri-achieng",
+    "specialisation": "Mobility, Yoga & Dance",
+    "certifications": "RYT-500 · Zumba® Instructor",
+    "experience": 6,
+    "image": "/images/trainer-zuri.jpg"
+  }
+]
