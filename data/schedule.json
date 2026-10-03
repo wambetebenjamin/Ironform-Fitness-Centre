@@ -1,0 +1,42 @@
+{
+  "Mon": [
+    { "time": "05:30", "name": "Iron Strength", "slug": "strength-training", "trainer": "Coach Amak", "duration": 60 },
+    { "time": "07:00", "name": "HIIT Burn", "slug": "hiit", "trainer": "Wanjiku", "duration": 45 },
+    { "time": "12:30", "name": "Power Yoga", "slug": "yoga", "trainer": "Zuri", "duration": 50 },
+    { "time": "18:00", "name": "Boxing Conditioning", "slug": "boxing", "trainer": "Kiptoo", "duration": 60 }
+  ],
+  "Tue": [
+    { "time": "06:00", "name": "Spin Surge", "slug": "spinning", "trainer": "Wanjiku", "duration": 45 },
+    { "time": "09:00", "name": "Foundation Strength", "slug": "strength-training", "trainer": "Coach Amak", "duration": 60 },
+    { "time": "18:00", "name": "Zumba Nairobi", "slug": "zumba", "trainer": "Zuri", "duration": 55 },
+    { "time": "19:15", "name": "HIIT Burn", "slug": "hiit", "trainer": "Kiptoo", "duration": 45 }
+  ],
+  "Wed": [
+    { "time": "05:30", "name": "Iron Strength", "slug": "strength-training", "trainer": "Coach Amak", "duration": 60 },
+    { "time": "07:00", "name": "Boxing Skills", "slug": "boxing", "trainer": "Kiptoo", "duration": 50 },
+    { "time": "17:30", "name": "Power Yoga", "slug": "yoga", "trainer": "Zuri", "duration": 50 },
+    { "time": "18:30", "name": "Spin Surge", "slug": "spinning", "trainer": "Wanjiku", "duration": 45 }
+  ],
+  "Thu": [
+    { "time": "06:00", "name": "HIIT Burn", "slug": "hiit", "trainer": "Wanjiku", "duration": 45 },
+    { "time": "12:30", "name": "Mobility Flow", "slug": "yoga", "trainer": "Zuri", "duration": 45 },
+    { "time": "18:00", "name": "Zumba Nairobi", "slug": "zumba", "trainer": "Zuri", "duration": 55 },
+    { "time": "19:15", "name": "Boxing Conditioning", "slug": "boxing", "trainer": "Kiptoo", "duration": 60 }
+  ],
+  "Fri": [
+    { "time": "05:30", "name": "Iron Strength", "slug": "strength-training", "trainer": "Coach Amak", "duration": 60 },
+    { "time": "07:00", "name": "Spin Surge", "slug": "spinning", "trainer": "Wanjiku", "duration": 45 },
+    { "time": "17:30", "name": "HIIT Burn", "slug": "hiit", "trainer": "Kiptoo", "duration": 45 },
+    { "time": "18:30", "name": "Friday Flow", "slug": "yoga", "trainer": "Zuri", "duration": 50 }
+  ],
+  "Sat": [
+    { "time": "07:00", "name": "Weekend Warrior", "slug": "strength-training", "trainer": "Coach Amak", "duration": 75 },
+    { "time": "08:30", "name": "Zumba Nairobi", "slug": "zumba", "trainer": "Zuri", "duration": 55 },
+    { "time": "10:00", "name": "Boxing Skills", "slug": "boxing", "trainer": "Kiptoo", "duration": 60 }
+  ],
+  "Sun": [
+    { "time": "08:00", "name": "Recovery Yoga", "slug": "yoga", "trainer": "Zuri", "duration": 60 },
+    { "time": "09:30", "name": "Community Spin", "slug": "spinning", "trainer": "Wanjiku", "duration": 45 },
+    { "time": "11:00", "name": "Open Strength Lab", "slug": "strength-training", "trainer": "Coach Amak", "duration": 60 }
+  ]
+}
